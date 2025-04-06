@@ -16,3 +16,5 @@ The Piscine is an intense, month-long bootcamp designed to test participants on 
 - Problem-solving and algorithmic thinking  
 - Proficiency in using the terminal and shell commands  
 - Teamwork and peer code reviews
+
+Feel free to check out the rest of my projects on [my GitHub profile](https://github.com/cetinss)!
